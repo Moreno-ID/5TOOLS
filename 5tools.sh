@@ -13,12 +13,11 @@ or='\033[1;38;5;208m' #Orange
 clear
 figlet '5TOOLS' | lolcat
 echo $ij'--------------------------------------------------------'
-echo $ij'| Name         : GUS10N                                |'
+echo $ij'| Name         : 3RR0R                                |'
 echo $ij'| Facebook     : Moreno ID                             |'
 echo $ij'| Instagram    : @moreno__id                           |'
 echo $ij'| Github       : https://github.com/Moreno-ID          |'
 echo $ij'| WhatsApp     : +6285332814651                        |'
-echo $ij'| Team         : NoTeam[NeedTeam]                          |'
 echo $ij'| Thanks To    : ALLAH S.W.T                           |'
 echo $ij'--------------------------------------------------------'
 
@@ -112,7 +111,7 @@ bash /data/data/com.termux/files/home/Tool-X/sh install.aex
 
 ;;
 
-6) echo "Create By : GUS10N" | lolcat
+6) echo "Create By : 3RR0R" | lolcat
 echo "FB : Moreno ID" | lolcat
 echo "Bye bye Muach :*" | lolcat
 exit
